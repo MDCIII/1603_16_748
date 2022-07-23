@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:748()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:1:1" ;
     skos:prefLabel "Hhohho"@eng-Latn ;
-    wdata:q7200235 "SZ1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -43,7 +41,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:1:2" ;
     skos:prefLabel "Manzini"@eng-Latn ;
-    wdata:q7200235 "SZ2" ;
 .
 
 <urn:mdciii:1603:16:748:1:3>
@@ -52,7 +49,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:1:3" ;
     skos:prefLabel "Shiselweni"@eng-Latn ;
-    wdata:q7200235 "SZ3" ;
 .
 
 <urn:mdciii:1603:16:748:1:4>
@@ -61,6 +57,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:1:4" ;
     skos:prefLabel "Lubombo"@eng-Latn ;
-    wdata:q7200235 "SZ4" ;
 .
 

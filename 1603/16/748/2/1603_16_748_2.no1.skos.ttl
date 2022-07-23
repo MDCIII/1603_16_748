@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:748()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:101" ;
     skos:prefLabel "Timphisini"@eng-Latn ;
-    wdata:q7200235 "SZ101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -94,7 +92,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:102" ;
     skos:prefLabel "Ntfonjeni"@eng-Latn ;
-    wdata:q7200235 "SZ102" ;
 .
 
 <urn:mdciii:1603:16:748:2:103>
@@ -103,7 +100,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:103" ;
     skos:prefLabel "Mayiwane"@eng-Latn ;
-    wdata:q7200235 "SZ103" ;
 .
 
 <urn:mdciii:1603:16:748:2:104>
@@ -112,7 +108,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:104" ;
     skos:prefLabel "Mhlangatane"@eng-Latn ;
-    wdata:q7200235 "SZ104" ;
 .
 
 <urn:mdciii:1603:16:748:2:105>
@@ -121,7 +116,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:105" ;
     skos:prefLabel "Ndzingeni"@eng-Latn ;
-    wdata:q7200235 "SZ105" ;
 .
 
 <urn:mdciii:1603:16:748:2:106>
@@ -130,7 +124,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:106" ;
     skos:prefLabel "Madlangempisi"@eng-Latn ;
-    wdata:q7200235 "SZ106" ;
 .
 
 <urn:mdciii:1603:16:748:2:107>
@@ -139,7 +132,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:107" ;
     skos:prefLabel "Maphalaleni"@eng-Latn ;
-    wdata:q7200235 "SZ107" ;
 .
 
 <urn:mdciii:1603:16:748:2:108>
@@ -148,7 +140,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:108" ;
     skos:prefLabel "Pigg's Peak"@eng-Latn ;
-    wdata:q7200235 "SZ108" ;
 .
 
 <urn:mdciii:1603:16:748:2:109>
@@ -157,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:109" ;
     skos:prefLabel "Nkhaba"@eng-Latn ;
-    wdata:q7200235 "SZ109" ;
 .
 
 <urn:mdciii:1603:16:748:2:110>
@@ -166,7 +156,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:110" ;
     skos:prefLabel "Motjane"@eng-Latn ;
-    wdata:q7200235 "SZ110" ;
 .
 
 <urn:mdciii:1603:16:748:2:111>
@@ -175,7 +164,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:111" ;
     skos:prefLabel "Mbabane West"@eng-Latn ;
-    wdata:q7200235 "SZ111" ;
 .
 
 <urn:mdciii:1603:16:748:2:112>
@@ -184,7 +172,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:112" ;
     skos:prefLabel "Mbabane East"@eng-Latn ;
-    wdata:q7200235 "SZ112" ;
 .
 
 <urn:mdciii:1603:16:748:2:113>
@@ -193,7 +180,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:113" ;
     skos:prefLabel "Hhukwini"@eng-Latn ;
-    wdata:q7200235 "SZ113" ;
 .
 
 <urn:mdciii:1603:16:748:2:114>
@@ -202,7 +188,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:114" ;
     skos:prefLabel "Lobamba"@eng-Latn ;
-    wdata:q7200235 "SZ114" ;
 .
 
 <urn:mdciii:1603:16:748:2:215>
@@ -211,7 +196,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:215" ;
     skos:prefLabel "Mkhiweni"@eng-Latn ;
-    wdata:q7200235 "SZ215" ;
 .
 
 <urn:mdciii:1603:16:748:2:216>
@@ -220,7 +204,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:216" ;
     skos:prefLabel "Kukhanyeni"@eng-Latn ;
-    wdata:q7200235 "SZ216" ;
 .
 
 <urn:mdciii:1603:16:748:2:217>
@@ -229,7 +212,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:217" ;
     skos:prefLabel "Mafutseni"@eng-Latn ;
-    wdata:q7200235 "SZ217" ;
 .
 
 <urn:mdciii:1603:16:748:2:218>
@@ -238,7 +220,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:218" ;
     skos:prefLabel "Mthongwaneni"@eng-Latn ;
-    wdata:q7200235 "SZ218" ;
 .
 
 <urn:mdciii:1603:16:748:2:219>
@@ -247,7 +228,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:219" ;
     skos:prefLabel "Manzini North"@eng-Latn ;
-    wdata:q7200235 "SZ219" ;
 .
 
 <urn:mdciii:1603:16:748:2:220>
@@ -256,7 +236,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:220" ;
     skos:prefLabel "Manzini South"@eng-Latn ;
-    wdata:q7200235 "SZ220" ;
 .
 
 <urn:mdciii:1603:16:748:2:221>
@@ -265,7 +244,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:221" ;
     skos:prefLabel "Kwaluseni"@eng-Latn ;
-    wdata:q7200235 "SZ221" ;
 .
 
 <urn:mdciii:1603:16:748:2:222>
@@ -274,7 +252,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:222" ;
     skos:prefLabel "Ludzeludze"@eng-Latn ;
-    wdata:q7200235 "SZ222" ;
 .
 
 <urn:mdciii:1603:16:748:2:223>
@@ -283,7 +260,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:223" ;
     skos:prefLabel "Lobamba Lomdzala"@eng-Latn ;
-    wdata:q7200235 "SZ223" ;
 .
 
 <urn:mdciii:1603:16:748:2:224>
@@ -292,7 +268,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:224" ;
     skos:prefLabel "Nhlambeni"@eng-Latn ;
-    wdata:q7200235 "SZ224" ;
 .
 
 <urn:mdciii:1603:16:748:2:225>
@@ -301,7 +276,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:225" ;
     skos:prefLabel "Ntondozi"@eng-Latn ;
-    wdata:q7200235 "SZ225" ;
 .
 
 <urn:mdciii:1603:16:748:2:226>
@@ -310,7 +284,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:226" ;
     skos:prefLabel "La-Mgabhi"@eng-Latn ;
-    wdata:q7200235 "SZ226" ;
 .
 
 <urn:mdciii:1603:16:748:2:227>
@@ -319,7 +292,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:227" ;
     skos:prefLabel "Mhlambanyatsi"@eng-Latn ;
-    wdata:q7200235 "SZ227" ;
 .
 
 <urn:mdciii:1603:16:748:2:228>
@@ -328,7 +300,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:228" ;
     skos:prefLabel "Mangcongco"@eng-Latn ;
-    wdata:q7200235 "SZ228" ;
 .
 
 <urn:mdciii:1603:16:748:2:229>
@@ -337,7 +308,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:229" ;
     skos:prefLabel "Ngwempisi"@eng-Latn ;
-    wdata:q7200235 "SZ229" ;
 .
 
 <urn:mdciii:1603:16:748:2:230>
@@ -346,7 +316,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:230" ;
     skos:prefLabel "Mahlangatsha"@eng-Latn ;
-    wdata:q7200235 "SZ230" ;
 .
 
 <urn:mdciii:1603:16:748:2:331>
@@ -355,7 +324,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:331" ;
     skos:prefLabel "Kubuta"@eng-Latn ;
-    wdata:q7200235 "SZ331" ;
 .
 
 <urn:mdciii:1603:16:748:2:332>
@@ -364,7 +332,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:332" ;
     skos:prefLabel "Nkwene"@eng-Latn ;
-    wdata:q7200235 "SZ332" ;
 .
 
 <urn:mdciii:1603:16:748:2:333>
@@ -373,7 +340,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:333" ;
     skos:prefLabel "Mtsambama"@eng-Latn ;
-    wdata:q7200235 "SZ333" ;
 .
 
 <urn:mdciii:1603:16:748:2:334>
@@ -382,7 +348,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:334" ;
     skos:prefLabel "Gege"@eng-Latn ;
-    wdata:q7200235 "SZ334" ;
 .
 
 <urn:mdciii:1603:16:748:2:335>
@@ -391,7 +356,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:335" ;
     skos:prefLabel "Mbangweni"@eng-Latn ;
-    wdata:q7200235 "SZ335" ;
 .
 
 <urn:mdciii:1603:16:748:2:336>
@@ -400,7 +364,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:336" ;
     skos:prefLabel "Maseyisini"@eng-Latn ;
-    wdata:q7200235 "SZ336" ;
 .
 
 <urn:mdciii:1603:16:748:2:337>
@@ -409,7 +372,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:337" ;
     skos:prefLabel "Sandleni"@eng-Latn ;
-    wdata:q7200235 "SZ337" ;
 .
 
 <urn:mdciii:1603:16:748:2:338>
@@ -418,7 +380,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:338" ;
     skos:prefLabel "Ngudzeni"@eng-Latn ;
-    wdata:q7200235 "SZ338" ;
 .
 
 <urn:mdciii:1603:16:748:2:339>
@@ -427,7 +388,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:339" ;
     skos:prefLabel "Zombodze"@eng-Latn ;
-    wdata:q7200235 "SZ339" ;
 .
 
 <urn:mdciii:1603:16:748:2:340>
@@ -436,7 +396,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:340" ;
     skos:prefLabel "Shiselweni"@eng-Latn ;
-    wdata:q7200235 "SZ340" ;
 .
 
 <urn:mdciii:1603:16:748:2:341>
@@ -445,7 +404,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:341" ;
     skos:prefLabel "Hosea"@eng-Latn ;
-    wdata:q7200235 "SZ341" ;
 .
 
 <urn:mdciii:1603:16:748:2:342>
@@ -454,7 +412,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:342" ;
     skos:prefLabel "Sigwe"@eng-Latn ;
-    wdata:q7200235 "SZ342" ;
 .
 
 <urn:mdciii:1603:16:748:2:343>
@@ -463,7 +420,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:343" ;
     skos:prefLabel "Matsanjeni South"@eng-Latn ;
-    wdata:q7200235 "SZ343" ;
 .
 
 <urn:mdciii:1603:16:748:2:344>
@@ -472,7 +428,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:344" ;
     skos:prefLabel "Somntongo"@eng-Latn ;
-    wdata:q7200235 "SZ344" ;
 .
 
 <urn:mdciii:1603:16:748:2:445>
@@ -481,7 +436,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:445" ;
     skos:prefLabel "Lubuli"@eng-Latn ;
-    wdata:q7200235 "SZ445" ;
 .
 
 <urn:mdciii:1603:16:748:2:446>
@@ -490,7 +444,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:446" ;
     skos:prefLabel "Sithobela"@eng-Latn ;
-    wdata:q7200235 "SZ446" ;
 .
 
 <urn:mdciii:1603:16:748:2:447>
@@ -499,7 +452,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:447" ;
     skos:prefLabel "Nkilongo"@eng-Latn ;
-    wdata:q7200235 "SZ447" ;
 .
 
 <urn:mdciii:1603:16:748:2:448>
@@ -508,7 +460,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:448" ;
     skos:prefLabel "Siphofaneni"@eng-Latn ;
-    wdata:q7200235 "SZ448" ;
 .
 
 <urn:mdciii:1603:16:748:2:449>
@@ -517,7 +468,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:449" ;
     skos:prefLabel "Mpolonjeni"@eng-Latn ;
-    wdata:q7200235 "SZ449" ;
 .
 
 <urn:mdciii:1603:16:748:2:450>
@@ -526,7 +476,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:450" ;
     skos:prefLabel "Matsanjeni North"@eng-Latn ;
-    wdata:q7200235 "SZ450" ;
 .
 
 <urn:mdciii:1603:16:748:2:451>
@@ -535,7 +484,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:451" ;
     skos:prefLabel "Lugongolweni"@eng-Latn ;
-    wdata:q7200235 "SZ451" ;
 .
 
 <urn:mdciii:1603:16:748:2:452>
@@ -544,7 +492,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:452" ;
     skos:prefLabel "Dvokodvweni"@eng-Latn ;
-    wdata:q7200235 "SZ452" ;
 .
 
 <urn:mdciii:1603:16:748:2:453>
@@ -553,7 +500,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:453" ;
     skos:prefLabel "Hlane"@eng-Latn ;
-    wdata:q7200235 "SZ453" ;
 .
 
 <urn:mdciii:1603:16:748:2:454>
@@ -562,7 +508,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:454" ;
     skos:prefLabel "Mhlume"@eng-Latn ;
-    wdata:q7200235 "SZ454" ;
 .
 
 <urn:mdciii:1603:16:748:2:455>
@@ -571,6 +516,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:748:2:455" ;
     skos:prefLabel "Lomahasha"@eng-Latn ;
-    wdata:q7200235 "SZ455" ;
 .
 

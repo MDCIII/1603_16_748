@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:748:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:748:0> ;
     skos:prefLabel "Hhohho"@eng-Latn ;
-    wdata:q7200235 "SZ1" ;
+    wdata:Q7200235 "SZ1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -48,7 +48,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:748:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:748:0> ;
     skos:prefLabel "Manzini"@eng-Latn ;
-    wdata:q7200235 "SZ2" ;
+    wdata:Q7200235 "SZ2" ;
 .
 
 <urn:mdciii:1603:16:748:1:3>
@@ -59,7 +59,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:748:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:748:0> ;
     skos:prefLabel "Shiselweni"@eng-Latn ;
-    wdata:q7200235 "SZ3" ;
+    wdata:Q7200235 "SZ3" ;
 .
 
 <urn:mdciii:1603:16:748:1:4>
@@ -70,6 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:748:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:748:0> ;
     skos:prefLabel "Lubombo"@eng-Latn ;
-    wdata:q7200235 "SZ4" ;
+    wdata:Q7200235 "SZ4" ;
 .
 
